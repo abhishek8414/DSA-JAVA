@@ -10,7 +10,7 @@ public class io {
       marks[1]=sc.nextInt();
       marks[2]=sc.nextInt();
       marks[3]=sc.nextInt();
-      marks[4]=sc.nextInt();
+      //marks[4]=sc.nextInt();
 
       System.err.println("phy :"+ marks[1]);
       System.out.println("che :"+marks[2]);
