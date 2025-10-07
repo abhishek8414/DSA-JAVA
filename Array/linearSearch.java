@@ -14,19 +14,16 @@ public class linearSearch {
     public static void main(String[] args) {
         int array[] = {10, 20, 30, 40, 50, 60, 70, 80, 90};
         int key = 50;
-        
+
         linearsearch(array, key);
-      
-        int index=linearsearch(array, key);
-        if(index==-1){
-            System.out.println("Key is not avilable in array ");    
-        }
-        else{
-            System.out.println("Key is at index :-"+index);
-        }
 
+        int index = linearsearch(array, key);
+        if (index == -1) {
+            System.out.println("Key is not avilable in array ");
+        } else {
+            System.out.println("Key is at index :-" + index);
         }
-
 
     }
 
+}
