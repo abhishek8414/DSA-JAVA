@@ -1,5 +1,4 @@
 
-import java.awt.RenderingHints;
 import java.util.Scanner;
 
 public class BinarySearch {
@@ -28,13 +27,13 @@ public class BinarySearch {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        //array 
-        int number[]={10,20,30,40,50,60,70,80,90,100};
-        int key =50;
+        // //array 
+        // int number[]={10,20,30,40,50,60,70,80,90,100};
+        // int key =50;
 
-         update(number,key);      
+        //  update(number,key);      
 
-         int mango=update;
+        //  int mango=update;
          
         
         
