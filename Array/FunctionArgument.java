@@ -3,31 +3,56 @@ import java.util.Scanner;
 
 public class FunctionArgument {
 
-
-    public static void main(String[] args) {
+    public static void main(String[] args) {//this is main class 
 
         Scanner sc = new Scanner(System.in);
 
-        int number[] = {10,20,30,40,50,60,70,80};
-        int nonchangable = 5;
+        int marks[] = {85, 95, 83};// this is an array
+
+        int nonchangable = 500;
         // class calling
-        Call_By_Refrence.update(number, nonchangable);
+        System.out.println("this is call by referance");
+        Call_By_Refrence.update(marks);
+        
+
 
         //print statement 
-        for (int i = 0; i < number.length; i++) {
-            System.out.print(number[i] + " ," + nonchangable);
+        for (int i = 0; i < marks.length; i++) {
+            System.out.println("Updated Marks =" + marks[i] + " ");
         }
+        System.out.println("This is call by value");
+        Call_By_Value.call_value(marks, nonchangable);
+         System.out.println("nonchangable after call = " + nonchangable); // no change
+
+        //print nextline
         System.out.println();
 
     }
 }
-class Call_By_Refrence{
-    
+
+class Call_By_Value {
+
+    public static void call_value(int marks[], int nonchangable) {
+        nonchangable=1000;
+
+
+    }
+}
+
+class Call_By_Refrence {
+
     //Call by reference 
-    public static void update(int number[], int nonchangable) {
-        nonchangable = 10;
-        for (int i = 0; i < number.length; i++) {
-            number[i] = number[i] + 1;
+    public static void update(int marks[]) {
+
+        for (int i = 0; i < marks.length; i++) {
+
+            marks[i] = marks[i] + 1;
         }
     }
 }
+
+// | Type                              | Function में change होने पर असर? |
+// | --------------------------------- | -------------------------------- |
+// | `int, float, boolean` (primitive) | ❌ No (value copy जाती है)        |
+// | `array, String, object`           | ✅ Yes (reference जाता है)        |
+
