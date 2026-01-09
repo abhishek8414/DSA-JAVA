@@ -24,7 +24,7 @@ public class SearchingAlgorithm {
             rollnumber[i] = sc.nextInt();
         }
 
-        System.out.println(" Enter your roll number whose you want to search =");
+        System.out.println(" Enter your roll number whbkd ose you want to search =");
         int key = sc.nextInt();
 
         //Linear search

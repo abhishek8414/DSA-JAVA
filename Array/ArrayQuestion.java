@@ -1,9 +1,7 @@
 
 public class ArrayQuestion {
-
-    
-
     public static void main(String[] args) {
+        
         int array[] = {10, 20, 30, 80, 40};
 
         //------smallest element in an array--------
