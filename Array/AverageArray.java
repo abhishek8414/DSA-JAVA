@@ -9,7 +9,7 @@ public class AverageArray {
         return total;
 
 
-
+   
     }
     public static void main(String[] args) {
 
