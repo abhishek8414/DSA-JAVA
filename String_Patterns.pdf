@@ -1,0 +1,931 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 652.8422 452.6138 665.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 639.8422 301.0532 652.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 601.8422 452.6138 614.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 588.8422 308.9009 601.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-words-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 563.8422 451.4826 576.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-words-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 550.8422 340.3321 563.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-strings-alternately/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 525.8422 452.6037 538.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-strings-alternately/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 512.8422 338.6656 525.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 383.8422 453.745 396.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 370.8422 434.0803 383.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-window-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 332.8422 451.4725 345.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-window-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 319.8422 350.4422 332.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 294.8422 451.4927 307.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 281.8422 354.361 294.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-repeating-character-replacement/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 256.8422 452.0583 269.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-repeating-character-replacement/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 243.8422 409.9514 256.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-anagram/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 126.8422 453.745 139.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-anagram/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 113.8422 289.822 126.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/group-anagrams/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 88.84222 453.1895 101.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/group-anagrams/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 75.84222 300.4876 88.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R ] /Contents 109 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 108 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/first-unique-character-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 778.8422 451.4927 791.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/first-unique-character-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 765.8422 371.7633 778.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/ransom-note/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 740.8422 455.4216 753.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/ransom-note/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 727.8422 280.8532 740.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 612.8422 451.4927 625.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 599.8422 307.8 612.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 574.8422 454.2904 587.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 561.8422 402.0835 574.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/decode-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 534.8422 454.8661 547.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/decode-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 521.8422 285.9032 534.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicate-letters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 496.8422 455.4216 509.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicate-letters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 483.8422 332.4844 496.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-palindromic-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 368.8422 454.3106 381.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-palindromic-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 355.8422 357.1688 368.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindromic-substrings/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 330.8422 453.7349 343.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindromic-substrings/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 317.8422 326.8688 330.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 292.8422 451.4927 305.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 279.8422 330.8078 292.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 254.8422 451.4927 267.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 241.8422 338.6555 254.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicate-letters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 126.8422 455.4216 139.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicate-letters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 113.8422 332.4844 126.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-labels/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 88.84222 454.3005 101.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-labels/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 75.84222 290.9532 88.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/Annots [ 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 
+  36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 
+  46 0 R 47 0 R 48 0 R 49 0 R ] /Contents 110 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 108 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-k-digits/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 778.8422 452.6037 791.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-k-digits/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 765.8422 296.0032 778.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 740.8422 451.4725 753.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 727.8422 412.1936 740.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/generate-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 610.8422 455.9973 623.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/generate-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 597.8422 322.3945 610.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 572.8422 452.0482 585.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 559.8422 402.6592 572.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/restore-ip-addresses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 532.8422 453.1693 545.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/restore-ip-addresses/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 519.8422 319.0211 532.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 494.8422 451.4927 507.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-partitioning/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 481.8422 330.8078 494.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-trie-prefix-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 366.8422 453.7349 379.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-trie-prefix-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 353.8422 338.6454 366.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 328.8422 452.0482 341.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 315.8422 290.9431 328.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/replace-words/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 290.8422 450.9271 303.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/replace-words/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 277.8422 292.0743 290.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-word-in-dictionary/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 252.8422 455.9872 265.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-word-in-dictionary/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 239.8422 339.211 252.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-break/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 124.8422 452.6138 137.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-break/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 111.8422 277.4798 124.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/edit-distance/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 86.84222 453.745 99.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/edit-distance/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 73.84222 283.0954 86.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/Annots [ 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 
+  61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 
+  71 0 R 72 0 R 73 0 R 74 0 R ] /Contents 111 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 108 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 778.8422 453.745 791.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 765.8422 363.9257 778.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/distinct-subsequences/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 740.8422 452.6138 753.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/distinct-subsequences/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 727.8422 326.889 740.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/string-to-integer-atoi/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 612.8422 454.856 625.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/string-to-integer-atoi/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 599.8422 315.0922 612.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/compare-version-numbers/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 574.8422 454.856 587.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/compare-version-numbers/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 561.8422 342.5844 574.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-number/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 536.8422 450.9271 549.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-number/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 523.8422 287.0243 536.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/basic-calculator-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 498.8422 452.0482 511.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/basic-calculator-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 485.8422 305.5376 498.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 370.8422 452.0583 383.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 357.8422 439.1101 370.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/repeated-substring-pattern/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 319.8422 455.4317 332.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/repeated-substring-pattern/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 306.8422 343.1601 319.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/shortest-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 281.8422 452.0583 294.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/shortest-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 268.8422 316.7688 281.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-happy-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 243.8422 454.3106 256.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-happy-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 230.8422 316.7688 243.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/repeated-dna-sequences/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 115.8422 455.9973 128.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/repeated-dna-sequences/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 102.8422 335.8679 115.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-duplicate-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 77.84222 454.3106 90.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-duplicate-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 64.84222 345.9578 77.84222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/Annots [ 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
+  86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 
+  96 0 R 97 0 R 98 0 R 99 0 R ] /Contents 112 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 108 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 778.8422 453.1794 791.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 765.8422 438.5445 778.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-happy-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 738.8422 454.3106 751.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-happy-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 269.622 725.8422 316.7688 738.8422 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/Annots [ 101 0 R 102 0 R 103 0 R 104 0 R ] /Contents 113 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 108 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+106 0 obj
+<<
+/PageMode /UseNone /Pages 108 0 R /Type /Catalog
+>>
+endobj
+107 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260126112313+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260126112313+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+108 0 obj
+<<
+/Count 5 /Kids [ 25 0 R 50 0 R 75 0 R 100 0 R 105 0 R ] /Type /Pages
+>>
+endobj
+109 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1972
+>>
+stream
+Gau`U?#uJp'Re<2\24$AFG#O*q!)(lZfuY2R;!U9o?nFa.lIhZ(N@(@?b]Zi#b5:,DB*SXeeSn^8EWV>*(7W_?X!Cm9`b6\_"`cgAMCY"apEjF8,..Gp>_)i/\+Ne^pQ2t4t"S:52M(F`:i]@#@`IYdJsPq)1I3cIYQ1E\f6$)MHqpO2V81CWe8]SF=Hf:b"B/mo/N5WVl2.8Se^a3oN+.^=BE'.YnGa^n_<k"9YSF*NC*:UIts,*:Epfr_!GEYmaTT(TM@@+?3Ql4R&hT]P&Z54$NkKo^[o\kLp-ZJeZ;i9A<X#H_Plc(*e([_Zl'F1qAqgET>Tl9+`[U[KN02P<o$gc2Kt1#.[)i]jY@Q)?&7`4E<3WFM,4AsV9#DeQ5O"ub&eN[KC5ujgrXR;,+IQaiZVWgF-4V;lM`2mVJ;K/s#@]R&$lfY)?aIKY3kpc#jYX6:E6?dT/]*j;_2JE^*!P""saJ&%kP^d6%-(p]6Xf7Z<.d]^%nOi32+6O:VWWIoNQ61]ljl5%emK2gO3Cb6I"5'F2fWeN^Is\O)akIgm$9L"E)R0Gc+*R*hePTrCF5pp?e4qKZ)V".%G[FO5qI`(>FZ=T%)07NJb=QY(Jc-qb^Bam-#sSg8l*0>D&`@,KFLZ7i4,g"`]-E3A/a`69]eJ3H[pGl^_(i4&ta-Z<S/`a5]RDE[k^R?q??F\\(R'>)[q\Ct;KmCLN2POQ5`%XQa/:4%4sbKo"/Y.hUC.ce[b?`'V=EOSFVQ`lg48=(W6e_0%lbAKgNcma?G2kK22P)e'Xc6VT8h9lS0\MdQ8K@6_^3qnF#Win/clNRNhrl>>SV.[l5V.3CTCCXrqCp$@E2B/cZiG:ZA$1o]D6k-G-K%&,'PmjFFm'+rup.r277<.VI:b_iKr!c(')7f-)0lh*9BKFR]fXPoN7foq%unTukY\S*BCi%e00.OmmX\=[-s7.d>`@R[)a;oEE>*EJ@U3]r4)B?pbkQSWnGPe[4;J)ARC5XWl;3=/Yt*#+,-7ELnjB/od(X]X"HZ`%=72cZ.!YHTr<gV&?T-<hNZ4a3Y.Mn05tTO3Dl[L.r+)Z4A$S=j5?V7M6^9irkb]$TEOGc2jaWc&9YEDWP[W>\92B^7m$'9G>P]4F,!gnVu97c4L"L[lLqR,-gAS]=b.O-mcPn28AK#\2E'HZ4aX;tndk%=.tNAoj33j'mQL$GSj2\uRbY=Cj:NUTi(K*2,MmDJGHUBV[+(O5g->Ahcp2Cg(.1PXY1+8mu!7rrUVT)Qg2k4#`9"S@Q7C5BHT#Z9P.g./R:;g$]t/qd"9rmiGd.]@9[NCZTECDVFS#82<mJ_Mo&=gULM0<=*$N;P:qojM^8Qp5gWh^cbO)9'R!j`C^5LL17:NTicS%'W\RV7c*)X?"r^I?6Ve9D&\q!UFFIR3/c6cg2=)T<X]tdWJ"ke6aWHOH^<Md9l.bQFQRW`d1?fMG(LUcM5/2;/"A:mR0d-Lg#Pt&E@T4YO#U!F-<AVB\Jjt2[_b*=h-8bFR+Ma`Ah+?rb6C&BhVUWflZr\9QXC6",'uA*Tf%;YNBYtRIe7G\='L*2ggnBrp:\:n/d)>WhZdK9b_>88>?j_f5nmgC_hIkK(ZK;CONq\;)eQtuF9URcLtfOILrQ^=Kll>lFs0TY<YrW!B*EnsB_X+@+N#hM+eVUli14+aV)eU5MT'_FKJ>.k0(V1\3Wu,qa"soKbYY!5)aUB^[&:]XZdggfVs*9DX0^ru6+&At&rPiM`/dn\I7PCgC^0Qa4f8[q%:Nj,"'Kk#Rh>Kd/u*,mBJQ%-"s0ORGsmSL4(\u?$]k2A\WIU'F,B4ToSp0aEkQ$/5_G<[+*O6[pMH2cR=XCeaaTc!,B<HAQ`HsKK*Io#4:uj["\b&V\Z68[Y]lJq1H0F1'`Z>Z!-Yf5JXr^,?=2BKl(?`c+;m)pFS=Qe\f9YHV7T[:mV#6CmsknGnts,rj`'o8SH,\_~>endstream
+endobj
+110 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1876
+>>
+stream
+Gb!<P968iG&BF89'Kad%P*up^JfpFb?I#A,G+@3%0=fFD/2O.oKr!.mT>&Jb8D0.sV_m_nA'9*.quaR`r;gLqnXGfYK/LHF93@]>?lUf&JI*OYndOA]cG%M)h,>`=Pk#NuS.\SNMpGff/Xt5>X<,2&Z5eJJ"(67-!b90B6J*Dp1&`*Rp+s5V%%#:ahdd+($Rm>\Z?cbL'#.Zoe.[ci+O&g>=8c03VIC4J(q,q?-$D/26HB!\9X>^fO2EVT%Bj^Je.6Sj65Y=c(O6q=X,`>Rpt_t/S.T2a\,`7(_h:Bs*Jgg3[iHS4B9)WPWF6;,3c\=Oa"HK/jS:-LYujCtk<ZE',Y6LE9q#<UHCZXj$aJ9k&DO.PCFa't>@D@D<`Z5,*0`%B8!Ke8<]3COgdBaIG6EA8=#fs+O@d;.eMolcoWM\b-<YA[T,:Q]fDaZ!Hq2(<MfW3/>TC44)L!HbJ+VbP=i5/LY5:pD-aIPlMR)6[XC/19Qr&fR_,ESF=%RGeA&(FI0DP-a7MPG>`<B,XMZjf8'Gp9/h$b+sY?>,EFH&MfKEs376?nA9%uWli.@=_Y>>IsN(A@L3<OW!%<<H=1b7s!)Jp@h8=.-L5D@3L<AlhW0WbDf_o7sr$E/7KWa5Bj0,2_5e;KY@e?mi+YAX@!qA'*/$Jm`-[K3RZ,TBTo-V;OI1!hEoC!`l?kG1Gs62q;5;S8tr_8E')2i[9$hjlgL(PrM1CK))#t3n9<>Yg)fuo(Cge2i!H?SUAuG00c5(`AoKYRj\^C>\>Fgn^C0!XKro0ZLN!p@kh#6oqQJ_4l?ZWgTAc-"a7gsDfhj4116!"fPcm!=UA/Q/`KbG^e^JrNLr0h.LV.KY/X_sHCBP:Nmk[jhIFT@ooA)qgTroo<gK4qr_mH-SUPDYXS[Fui`_$tHaD2W7'<Ea=W$&amqSRfe+IjhhY?VbaSf,iH/qI.3O;^+f3(mS\&DI#rK"g,i4O2rrp\2mT.%LArbN<5CdMs?E^6")W9>CUhEDY:X/LIKmuh2rh+`BGm780?j2^Pcpqt=sgqsH0MA@k?#[TD$j,Jm4nD8EhHmkYeW;nM%V-AB_)3%Z1orL(:'qdH%e'qKeG!F(ZG(]%ir/E=0pZWjrZIDlVc`H-EZsE-/o6Nd]:Qr5fc#!),SEV6:%uAJoTm*nWQgKp8Q>/jRe-S.Jg5rFRRk=N@34sd.%O`.4*osKF^$W<Oh7EbD8*i'@d58*KJ1lf?U4'(P5MLDEYnuhtp4IH?,X5&u_NptE]gE?>U+foNa]cU:Db+CVdN3e)^W%One$ePjZ[N;u9MS4VB1]a&4@P@8V[s&oD6KsMG61(9NB<+7s-q+S*T^^\[`*OS$4f&t3+"@cSFa9C*l@aD&NQHnjF$eXcDSQ?T8q7nE[^*8&.fAMPfCbh4$Ii8pt-/?V\<X-W"P!;DZ[LICmeQ`K`@%mrt6A82=)aLNHV&NCZ,<XTVad#[:.@^BZIDGaMAh[A64rs%)-tW*pGb#mCX+sT+KcsF*;HQ]1H^/bTD'Uq_T`$J8+!@qkq@-IE&\3E'i!f)i.!.rE[q@^Kb\Js7dmgG9HO;?..mVdbd1j0JPWQ+2>d-4kKJ1miJ+m"#S\Q@%J3poHf'4WRf8]n2$Yn^P+tZ9)[!Dk.4XK0O"1V06>+.E*pb>D!a_)@a-+fduqVKA-^k6M5QO[M6ZE&EK4jB*N``j`Z[MK`BPh.\5#pm2L/GhV"i.6b%FTmVu4,s&#4ME+-#iV(^0YW[t0KFpE"k[FjCX+hf(mmi/bnb5CR0#)(:G`B/CMU%(nDX8d[^P5:.i/)&LTr.igdHHU,IM<n*_m$Ane0.\ODqSDHp=VWL/?^[oC=rKFsDd=M5P$Jh?3lh2gC_sAIAQ\m$~>endstream
+endobj
+111 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1906
+>>
+stream
+Gb"/hd;k^9'Sc)T'PD#rS;tEV#U+NG2JjhRl&OMC[Pt`?[VSk]DuhoPIJQ)4OJ0&khPG+5As8'gOH=p2FO'pF&?tYjW7P/Xn8\lr2ZsD?klM,H),+u-olT\K5g#ZlQp_3UJ4kPe/`u&8fPIPLA2u&.n4^!>T]H/u\f-,2e$0arJ^]#E&;Kln9L$Ac=`YpZR5X)aK-Q769T.ql$`<#?63N[oU%kUWQ0>'sVOJ*s(1N\TZ'8M6n:M/00+r_dlX1T@Bl2Supq*/e;IVE9`msX#C;Lqu(N%km:tl$"UVu-JG>f0qoP/F\27K^M?=heJI6J]jUs*H@>ahuY*,h&9@3`[3S1%sgg8Hh;k=Xb/W('6=;`MVua/a(g.\e&"FK*1IS\!$*FE_Dp&-o-?HlL,LN?#cmd/PVV^7"^lr$X)Ua%j[9T,0]N*f]'h+:>tk#VY=]aC9DWY9cm?6q5j%VGbHUpkQTjk3^P2(CG%^aPOtgT?iKJ2F>o3D"mdc0=gK\+W"c[SFC#301%hM]&!Us,YmAgG!NpJq"JK1$K?%5n!1t,Aru<jPei-a",tai+B#P#pu`":^`B"SShPl]Eck\1k[pl@hU8=,a5R$!E<3,CTVC4[H*]]]f3q@2W2o(G@'>aG`P#9(<sN=.qelSqQs=#3J86lF":o\6DS8YcY$a].C_\=V(0An(9mGpKeldSX6*u;)K"ESM:WEjr?ADJ2EN!+X.5lWBFjc\')@2Al\@F/JgPiW^LId^br4%oHb]@`ib3*O9HFaUFXc-fMB+k-e#&oK55o.C93l\gW#U3Ur_#<b714i[2N$)+.JonW@icfl`G$,\G*.l>3R*4b<n;:G1n$k7phf24'cU/8CiZn/$bJ9*sX'@c&$!_K!:ACCIfbB(\<>l?sW@b.$:Y3dihtrs<o,Dh^]<5UCpY-fo+7?/p7b.03*,b`=.qF*=n,*h4-akF/J=Lc`@^Edb>]6bI[JtKZ-^7r9hChNM`cb_Z[EoEFSY2pRA*Lq;b%T5Pd1irH;nnT#-51W(Y70q&I$h"p8Er;3q_!8X8I&1,(Q.cQkr/%$eu0Bm`!aIA[eTu`8."bElDu@;J)el96QE<(`nktCE2t4IT*]Y<QorW&XKjdK*:"6*G"Q@iW@0-J4<rK:n?('jL!JMH7H_#sSWhp%XsQ]Cd6*7Q<L=077l,&ok+s-)[Zs)u8VQ&*BnpZu+%4scb5Np\-;A"tm>P>D3b`$qqEVu-N@$d;9us=,-9Td/he7$(%<b+D/P`T6Bn:QX6M$u^k8BT#P;pm)ef2mB';e>DOb+s;>QfQ9Od,TAmDR0R]-tjhnilLfb!edLN0?9GK3=d'Ie"65D,*1'm>W7DD6grR4[MB&XY?e:0Kc\[BniND4br"l%qKpc,K!aK0tc&-iN<(sSp+c@1U6DY=kn[7XN:aek9WERk,f$%7SkPa`S/+_<-/Tr(dC[HM<XE""9P1YL@eejcY"?koY6T=10_T>9a>4De:Un1Q])W4ktoZ+7M'ZMF*cfKgn"kCD`:36O@SqW;7Y+d4R2g2$iD*e)pd&SZpaL_Z%F0NC[KbMLWDE.7K`o98BfF'1A5t_hhUbL("_BQ"j2)uPk,fXdjC=.)O*1+SZptES@:aDDh2qX)TjKh!f'b\imHVUgb[o8En328`2+9Hn[mUE.Zq[p/B_PE&jJu)E=s`$LFTQjVf#ktNBkdA$rK14I-c<321ed[F-J,"h[^I#5:"ZaGP\J5E.48)bBDU!dk0m@EOoPK0YQi(Oj_G0*?`&^fd!8-mr(Mark)V6`liaJ4<``d"IF%/?)6'gFT'W1TQ'pP>ec!+qfD_fH,a3X)?4f;4tf;n;2Fr4h;u2H05iLpX_2R]R[.c<BB&d3&JP3,MF7CJn&M9t6q:L.0D)JAQgKK"_r,G;CJQk~>endstream
+endobj
+112 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1925
+>>
+stream
+Gb"/(gN&cS&:N/3FOe)R.>*uq\)\uX<f&aoh^\N_(Q:frYlL1b2TaQh"/>nMP!CIaBWK]:)\(8b3B_#Pq_Sj<n<]C>r=Io[22oNX#_hRn&?^)arW%FS&+0Zj>&m+\NoN0.;a[Ge\++gtD3WkuC`l5eFfQL6aoV#*C'6kFe)6aIAJF0[0P&MfqC>f8?_<0pST0Ql?s;)#\maQY%D(M=66+@/8b&"7Ppf_$DAU3VNYjgX>UaV#5K(rCU`#]B@2MLRQ/AIu4r9>7)@.tb[miY4d5b_#30u$!2\#CdB9#?I$+`cdBt9:$&6!cl0LuM&Pq_?'[S1%e7LL@p5Fr/:O2K@#M/O1S9Lk!JUuo]J:r<@:QI]_>>N'V^lAk,5)QnW6WJb_4C3$sbS"#JjN*&,HTu@T^?seWEcT!s_=?Zq<&uY7VH[oN<_j!cJq/1qLbQBTt-:kHco!9[PBfik+:Y\\j4=!iWBT9>#Xi0%R<jn"<[rFN7L_H`>h(\;)q"Jp(42eN8>S*g#NC*``Tc>]B%WL,$)+<R[+o^.1/DpkRE7`JX(RrBlePP)AqL(`e`l;V;jto0(<HV,.DOt<"ePP-ji[S]dmT$#O8Q`Bn-(7h$G$d@:I8dTpgsKLKQATr,%4nCp'K^6rMBc/bK+qH77C]V\.SGA,#3T<U(=s.'"_#.7Z="ni&&D@B0UiPKF_F6SWfE3JCj=";/++m>ir1.1KgR+A)#cZ7M1@.34;BNll'hosLf$&+-4ji1V'fr"-_fO3$2"G^IDEb)oFfr';'(T?nDTkG#U[tjHs\3E/a\jh_g2P89tm$Y<M&3Ye"jpa.)7@Eamb2E)-0$pZ.I@UHE1bidF$q;o+iONp"PVsR*-n@CDg\7r1i4M_laK(ddA="/?hlk_d%nuQ2-1X]%_%)#7kNp>-JS:JBXK?A)jcRE5F.Di^le!BCo"T?60I/LhBR3Ag2eqTpNa7c*R+/:T2Z>W)$'N=r(n)U2X5OeI&Nd@_KYT4**BQL5KBMRp_R)MVll48AH#Z1d:$[/UhL`f:b?I/&RbJ9s&(4<Jr?**QWBJ*YS9gW9u<-N0c(:Oj5RX:Vg/8`'i%OZ6"A,\;fO\qHR'3*i6)imA62Q:VDHhk`7]SZa8\Se[G]Absu_f.4^Wdcm@%B4bq_hoJKcQ`hZm4=,NNT8Fkn.\/j/3Yc53Q"#RWoH!&0`=u8<T&acAg[GrgM<BFj=iD_ndiVgf<Pj7FgQj2GVS7B66Up6EJ]3mOPbKjf_KM%5\35(4DZ'T&N]<b0V&VOKQcV_BgKOsBNQE/KOQUEAn()5W</3eKLQpC1HU/GNHao*bd6jMPn$/M`<.:mkiG/o"lh/9Q:\m=$4ea:etMf+lYLXb_HmAep_I`I&m>B@kFLaJ5."mYf<p^Zi$ClEuL\)(cTc]b1#-uKkii5l>9K<T!iVdqSP0/NggeFi$c(/N,ce&!+W<plWKk%W?PGllAhh7^/B0BeDpMh&uNGe$`2jh-IG7oT_p@\B%<\jN4BA1[\o'NcmAkAcY":Z0PrHq0AG%ZfkrHRdEW91>b1q)]\/Y6ouY/.>SJ<8MoDjUWedNi+X7]hFi@C,HU#<lpdO9*9GtgF1ma1-jC=PigWb<Z*='/X8V3+C^aS?.eMI1/Ks=<!K`PRk"To^U5hiL:b&Q+:^J<AO(CJN#.BrQ+ce;3>MaahJEh[:hm]<P%Bu[J68o)Wo-Uc>Qd6f\;&.uLeRTo'DqYhnF%9$i]bD5RJd,80)W>g6Q&-_HZp>Mqe<Mp^bD@]$ugHh.R9GF/-;ViLDiE]*j>cDftX?b3*c/YRdSFu=)c^gm;-\B5j>h9$IfZ&pH@BZReC0sS<O#XrtE3aKmrg8?cNEueW2B`:[7]A'!8%Jeph!1)!fl0Ga.[ISLs[:_)ItPm<h(EQ@rQHh42i'J!JAhn1Q-)J`?~>endstream
+endobj
+113 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 647
+>>
+stream
+GauHH9lldX&A@Zcp?6UUcq4A8hYNX8-\o:qQjY(C+To^f3be3O]>u,Lq.OfiP],rAh=pX1JA>khG:a_`%iIcB&5YX###n8^Foe5Ai+IShRn>Kdg1X#3@=kPE^*B",\D%-b#/_(?6;.\64D-oi0ipt6ipo%4OCs[25ka?IP#P,T6mY*RX20$I>7-<.KrBQ2/EgfJMI$Xe/04=C-(N)jQBB6tp$8V"\n\kATj>R9]!IK`S[EE@%4-D%qOuUY_b=_5Z-9hm(i7eG0jN.U?mu46-0<dHM']0h;h(1a>0%PJ&JunX+j67@,F7Oq9#n4WL0ag3MJ?p^U:n":BU`\e[9'bQqPa-,4O:6;LHUJ#LJ^`)M@$I60k'$06r0gZBUFf;H%L+@M7YI;+r.AW]1>s"Ygnnn=T]s0P463-n(R0BHB/MdR"ms*HO*qr"tnWs`qBL^c$-can@c0ol8Ms#b.KBU6OE&3]I5GZSi?Xuq-NN8LLomfP(7N7"MDNRnOhB(\*^'$DrFQOa1C0l]EsrpPAofB*ig_,8SFgUa*Bpng]gtaWM*73W*r*qAMhj_9jHI,4NpU]LTl6mI<>Ui)%_*4WY+q4ruLpDGLjV%ikQ2g^7d1T]U7X=rU.]Wd5:*LEoDM7b5d.//"K*f~>endstream
+endobj
+xref
+0 114
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000462 00000 n 
+0000000660 00000 n 
+0000000858 00000 n 
+0000001059 00000 n 
+0000001260 00000 n 
+0000001467 00000 n 
+0000001675 00000 n 
+0000001883 00000 n 
+0000002091 00000 n 
+0000002319 00000 n 
+0000002548 00000 n 
+0000002755 00000 n 
+0000002962 00000 n 
+0000003174 00000 n 
+0000003385 00000 n 
+0000003607 00000 n 
+0000003829 00000 n 
+0000004024 00000 n 
+0000004219 00000 n 
+0000004416 00000 n 
+0000004613 00000 n 
+0000004971 00000 n 
+0000005188 00000 n 
+0000005405 00000 n 
+0000005599 00000 n 
+0000005793 00000 n 
+0000005993 00000 n 
+0000006190 00000 n 
+0000006413 00000 n 
+0000006636 00000 n 
+0000006832 00000 n 
+0000007028 00000 n 
+0000007235 00000 n 
+0000007442 00000 n 
+0000007654 00000 n 
+0000007866 00000 n 
+0000008071 00000 n 
+0000008276 00000 n 
+0000008482 00000 n 
+0000008688 00000 n 
+0000008897 00000 n 
+0000009106 00000 n 
+0000009313 00000 n 
+0000009520 00000 n 
+0000009719 00000 n 
+0000009918 00000 n 
+0000010312 00000 n 
+0000010510 00000 n 
+0000010708 00000 n 
+0000010928 00000 n 
+0000011148 00000 n 
+0000011351 00000 n 
+0000011554 00000 n 
+0000011774 00000 n 
+0000011994 00000 n 
+0000012197 00000 n 
+0000012400 00000 n 
+0000012606 00000 n 
+0000012812 00000 n 
+0000013021 00000 n 
+0000013230 00000 n 
+0000013427 00000 n 
+0000013624 00000 n 
+0000013820 00000 n 
+0000014016 00000 n 
+0000014225 00000 n 
+0000014433 00000 n 
+0000014626 00000 n 
+0000014819 00000 n 
+0000015014 00000 n 
+0000015210 00000 n 
+0000015604 00000 n 
+0000015812 00000 n 
+0000016021 00000 n 
+0000016225 00000 n 
+0000016428 00000 n 
+0000016632 00000 n 
+0000016837 00000 n 
+0000017042 00000 n 
+0000017248 00000 n 
+0000017443 00000 n 
+0000017638 00000 n 
+0000017840 00000 n 
+0000018042 00000 n 
+0000018275 00000 n 
+0000018508 00000 n 
+0000018717 00000 n 
+0000018926 00000 n 
+0000019128 00000 n 
+0000019330 00000 n 
+0000019533 00000 n 
+0000019736 00000 n 
+0000019941 00000 n 
+0000020146 00000 n 
+0000020356 00000 n 
+0000020566 00000 n 
+0000020961 00000 n 
+0000021194 00000 n 
+0000021427 00000 n 
+0000021631 00000 n 
+0000021835 00000 n 
+0000022088 00000 n 
+0000022160 00000 n 
+0000022445 00000 n 
+0000022537 00000 n 
+0000024602 00000 n 
+0000026571 00000 n 
+0000028570 00000 n 
+0000030588 00000 n 
+trailer
+<<
+/ID 
+[<ad33a86b63642f5b8c9f6a4df2fc1fb9><ad33a86b63642f5b8c9f6a4df2fc1fb9>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 107 0 R
+/Root 106 0 R
+/Size 114
+>>
+startxref
+31327
+%%EOF
